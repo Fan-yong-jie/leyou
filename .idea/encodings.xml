@@ -4,9 +4,12 @@
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/leyou-commen" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/leyou-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leyou-gateway/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/leyou-item" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/leyou-item/leyou-item-interface" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/leyou-item/leyou-item-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leyou-item/leyou-item-service/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/leyou-registry" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leyou-registry/src/main/resources" charset="UTF-8" />
   </component>
 </project>
